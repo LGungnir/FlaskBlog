@@ -1,0 +1,25 @@
+#article_datail {
+    width: 680px;
+    height: 1000px;
+    background: #b9e8ee;
+    float: left;
+    margin-left: 20px;
+}
+
+#articletitle{
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#articlecontent{
+    margin: 20px;
+}
+
+#articletime{
+    margin-right: 20px;
+    text-align: right;
+}
